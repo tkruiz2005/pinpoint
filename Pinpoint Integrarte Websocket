@@ -1,4 +1,4 @@
-<mxfile modified="2021-05-24T23:35:57.142Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="dVUfkyEwBKR08N-eXwiv" version="14.7.0" type="github" pages="4">
+<mxfile modified="2021-05-24T23:36:22.280Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="DAX1tpOXCk0jHbHS3v7V" version="14.7.0" type="github" pages="4">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Websocket">
     <mxGraphModel dx="1221" dy="682" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -609,7 +609,7 @@
         <mxCell id="3FEyBjguzq_P15ns64wb-29" value="Apache Active MQ" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.webicons.apache;gradientColor=#DFDEDE" vertex="1" parent="dMRIxb9vtl9CxpqKvv2F-1">
           <mxGeometry x="298" y="615.5" width="90" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="-knybk6cIvc1Vb8it5XI-0" value="Gatetway" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;dashed=1;sketch=0;fillColor=none;verticalAlign=bottom;fontSize=14;" vertex="1" parent="dMRIxb9vtl9CxpqKvv2F-1">
+        <mxCell id="-knybk6cIvc1Vb8it5XI-0" value="Gateway" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;dashed=1;sketch=0;fillColor=none;verticalAlign=bottom;fontSize=14;" vertex="1" parent="dMRIxb9vtl9CxpqKvv2F-1">
           <mxGeometry x="287.5" y="181" width="111" height="320" as="geometry" />
         </mxCell>
         <mxCell id="-knybk6cIvc1Vb8it5XI-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=14;startArrow=classic;startFill=1;endArrow=classic;endFill=1;" edge="1" parent="dMRIxb9vtl9CxpqKvv2F-1" source="-knybk6cIvc1Vb8it5XI-3">
