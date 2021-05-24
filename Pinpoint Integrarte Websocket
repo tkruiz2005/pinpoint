@@ -1,4 +1,4 @@
-<mxfile modified="2021-05-24T21:14:13.988Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="cGPf0x8_LXqDfpFFrRU_" version="14.7.0" type="github" pages="2">
+<mxfile modified="2021-05-24T21:15:25.064Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="WRrq1iEnmLmvdV85poe7" version="14.7.0" type="github" pages="2">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Websocket">
     <mxGraphModel dx="1038" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -13,11 +13,12 @@
         <mxCell id="1bXUVd9QVqtNMuYQMocC-1" value="Corporate data center" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_corporate_data_center;strokeColor=#5A6C86;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#5A6C86;dashed=1;sketch=0;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="190" y="680" width="810" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="1bXUVd9QVqtNMuYQMocC-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=open;startFill=0;endArrow=open;endFill=0;strokeWidth=2;strokeColor=#808080;" edge="1" parent="1" source="1bXUVd9QVqtNMuYQMocC-12" target="1bXUVd9QVqtNMuYQMocC-13">
+        <mxCell id="1bXUVd9QVqtNMuYQMocC-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=open;startFill=0;endArrow=open;endFill=0;strokeWidth=2;strokeColor=#808080;" edge="1" parent="1" target="1bXUVd9QVqtNMuYQMocC-13">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="80" y="99" />
             </Array>
+            <mxPoint x="80" y="230" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="1bXUVd9QVqtNMuYQMocC-4" value="Autenticate Credential" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1bXUVd9QVqtNMuYQMocC-3">
