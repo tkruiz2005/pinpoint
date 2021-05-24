@@ -1,4 +1,4 @@
-<mxfile modified="2021-05-24T20:58:07.700Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="nH6D5N7BqhBjsACfTKvl" version="14.7.0" type="github" pages="2">
+<mxfile modified="2021-05-24T20:58:34.937Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="NA3_0U-bun11MKjfKCxm" version="14.7.0" type="github" pages="2">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Websocket">
     <mxGraphModel dx="1221" dy="682" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -282,7 +282,7 @@
             <mxPoint x="348.5" y="426.5" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XlOoiGLlorOMo6OnSnsw-15" value="Send message" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="FQiMbMPv_GokAo1OrOTp-1" target="XlOoiGLlorOMo6OnSnsw-10">
+        <mxCell id="XlOoiGLlorOMo6OnSnsw-15" value="Send message asincronico" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="FQiMbMPv_GokAo1OrOTp-1" target="XlOoiGLlorOMo6OnSnsw-10">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="80" y="401" />
