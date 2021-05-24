@@ -1,4 +1,4 @@
-<mxfile modified="2021-05-24T20:47:53.423Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="WYLrJrvJgmrlwYGBzLL8" version="14.7.0" type="github" pages="2">
+<mxfile modified="2021-05-24T20:51:42.331Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="OzuR_dFVZmmbBiofowi8" version="14.7.0" type="github" pages="2">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Websocket">
     <mxGraphModel dx="1221" dy="682" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -92,6 +92,14 @@
         <mxCell id="1bXUVd9QVqtNMuYQMocC-13" value="Amazon &lt;br&gt;Cognito" style="outlineConnect=0;fontColor=#232F3E;gradientColor=#F54749;gradientDirection=north;fillColor=#C7131F;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.cognito;labelBackgroundColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="400" y="60" width="78" height="78" as="geometry" />
         </mxCell>
+        <mxCell id="764Z2VGvOTgJdgyiENTW-12" value="put message" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="1bXUVd9QVqtNMuYQMocC-14" target="764Z2VGvOTgJdgyiENTW-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="640" y="360" />
+              <mxPoint x="640" y="260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="1bXUVd9QVqtNMuYQMocC-14" value="Custom Channel" style="outlineConnect=0;fontColor=#232F3E;gradientColor=#F78E04;gradientDirection=north;fillColor=#D05C17;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.lambda;labelBackgroundColor=#ffffff;spacingTop=3;" vertex="1" parent="1">
           <mxGeometry x="500" y="347" width="78" height="78" as="geometry" />
         </mxCell>
@@ -103,7 +111,7 @@
             <mxPoint x="349.0000000000002" y="441" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1bXUVd9QVqtNMuYQMocC-16" value="Send message" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" target="1bXUVd9QVqtNMuYQMocC-12">
+        <mxCell id="1bXUVd9QVqtNMuYQMocC-16" value="Send message asincronico" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" target="1bXUVd9QVqtNMuYQMocC-12">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="80" y="401" />
@@ -172,7 +180,7 @@
         <mxCell id="764Z2VGvOTgJdgyiENTW-2" value="Generic" style="outlineConnect=0;fontColor=#232F3E;gradientColor=#F78E04;gradientDirection=north;fillColor=#D05C17;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.lambda;labelBackgroundColor=#ffffff;spacingTop=3;" vertex="1" parent="1">
           <mxGeometry x="492" y="192" width="78" height="78" as="geometry" />
         </mxCell>
-        <mxCell id="764Z2VGvOTgJdgyiENTW-3" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.dynamo_db;fillColor=#2E73B8;gradientColor=none;shadow=0;sketch=0;" vertex="1" parent="1">
+        <mxCell id="764Z2VGvOTgJdgyiENTW-3" value="Dynamo DB" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.dynamo_db;fillColor=#2E73B8;gradientColor=none;shadow=0;sketch=0;" vertex="1" parent="1">
           <mxGeometry x="696" y="189.5" width="72" height="81" as="geometry" />
         </mxCell>
       </root>
