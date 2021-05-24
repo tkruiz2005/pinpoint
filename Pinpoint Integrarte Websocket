@@ -1,4 +1,4 @@
-<mxfile modified="2021-05-24T20:58:34.937Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="NA3_0U-bun11MKjfKCxm" version="14.7.0" type="github" pages="2">
+<mxfile modified="2021-05-24T21:00:30.722Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="DgNJNgnsrI3AgEsGhWJi" version="14.7.0" type="github" pages="2">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Websocket">
     <mxGraphModel dx="1221" dy="682" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -363,16 +363,11 @@
         <mxCell id="z2K_8LNb2PvS7xd-hPmS-1" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.api_gateway;fillColor=#D9A741;gradientColor=none;shadow=0;sketch=0;" vertex="1" parent="FQiMbMPv_GokAo1OrOTp-1">
           <mxGeometry x="320" y="190.5" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="z2K_8LNb2PvS7xd-hPmS-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="FQiMbMPv_GokAo1OrOTp-1" source="z2K_8LNb2PvS7xd-hPmS-4" target="z2K_8LNb2PvS7xd-hPmS-5">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="z2K_8LNb2PvS7xd-hPmS-3" value="GET" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="z2K_8LNb2PvS7xd-hPmS-2">
-          <mxGeometry x="0.2583" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="z2K_8LNb2PvS7xd-hPmS-4" value="Generic" style="outlineConnect=0;fontColor=#232F3E;gradientColor=#F78E04;gradientDirection=north;fillColor=#D05C17;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.lambda;labelBackgroundColor=#ffffff;spacingTop=3;" vertex="1" parent="FQiMbMPv_GokAo1OrOTp-1">
           <mxGeometry x="492" y="192.5" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="sBYmsjQcgizTOy7PlKdG-2" value="Get Message" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="FQiMbMPv_GokAo1OrOTp-1" source="z2K_8LNb2PvS7xd-hPmS-5" target="z2K_8LNb2PvS7xd-hPmS-4">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="z2K_8LNb2PvS7xd-hPmS-5" value="Dynamo DB" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.dynamo_db;fillColor=#2E73B8;gradientColor=none;shadow=0;sketch=0;" vertex="1" parent="FQiMbMPv_GokAo1OrOTp-1">
           <mxGeometry x="696" y="190" width="72" height="81" as="geometry" />
