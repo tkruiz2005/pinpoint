@@ -1,4 +1,4 @@
-<mxfile modified="2021-05-24T15:54:02.354Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="tu4BZTdyjBuoUyCkqWGq" version="14.7.0" type="github" pages="2">
+<mxfile modified="2021-05-24T15:57:26.983Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="AS4Z2bTbM9xfn2lS65dt" version="14.7.0" type="github" pages="2">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Websocket">
     <mxGraphModel dx="1221" dy="682" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -318,8 +318,14 @@
         <mxCell id="XlOoiGLlorOMo6OnSnsw-28" value="Amazon MQ" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.mq;" vertex="1" parent="FQiMbMPv_GokAo1OrOTp-1">
           <mxGeometry x="310" y="351" width="70" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="XlOoiGLlorOMo6OnSnsw-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.143;entryY=0.667;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="FQiMbMPv_GokAo1OrOTp-1" source="XlOoiGLlorOMo6OnSnsw-29" target="XlOoiGLlorOMo6OnSnsw-28">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="XlOoiGLlorOMo6OnSnsw-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="FQiMbMPv_GokAo1OrOTp-1" source="XlOoiGLlorOMo6OnSnsw-29" target="XlOoiGLlorOMo6OnSnsw-28">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="450" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="425" y="600" />
+              <mxPoint x="320" y="600" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="XlOoiGLlorOMo6OnSnsw-29" value="Apache Active MQ" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.webicons.apache;gradientColor=#DFDEDE" vertex="1" parent="FQiMbMPv_GokAo1OrOTp-1">
           <mxGeometry x="380" y="724.5" width="90" height="80" as="geometry" />
