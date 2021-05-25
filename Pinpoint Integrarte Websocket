@@ -1,4 +1,4 @@
-<mxfile modified="2021-05-24T23:38:54.113Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="6J6MVQNHrlzpLhMBx5LJ" version="14.7.0" type="github" pages="4">
+<mxfile modified="2021-05-25T00:25:20.449Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="UIg2HZzOerykurGhRvb5" version="14.7.0" type="github" pages="4">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Websocket">
     <mxGraphModel dx="1221" dy="682" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -413,7 +413,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="gcG1RB_Fpj6tCPbs_ZNB" name="Websocket Sin Cloudwath">
-    <mxGraphModel dx="1221" dy="682" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="bfTRqK33FKfHN-Cmpby4-0" />
         <mxCell id="bfTRqK33FKfHN-Cmpby4-1" parent="bfTRqK33FKfHN-Cmpby4-0" />
@@ -560,7 +560,7 @@
             <mxPoint x="480" y="234" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0r0buYXoaD_8yZHJH0w9-32" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.api_gateway;fillColor=#D9A741;gradientColor=none;shadow=0;sketch=0;" vertex="1" parent="bfTRqK33FKfHN-Cmpby4-1">
+        <mxCell id="0r0buYXoaD_8yZHJH0w9-32" value="Api Gateway" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.api_gateway;fillColor=#D9A741;gradientColor=none;shadow=0;sketch=0;" vertex="1" parent="bfTRqK33FKfHN-Cmpby4-1">
           <mxGeometry x="303" y="190" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="0r0buYXoaD_8yZHJH0w9-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=none;endFill=0;exitX=1.018;exitY=0.165;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.004;entryY=0.372;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="bfTRqK33FKfHN-Cmpby4-1" source="wCpdnwcqmN3zWmZHQR9z-1" target="R4EUjTE_yQ1BbTU-y8qN-0">
